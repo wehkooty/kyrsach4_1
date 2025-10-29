@@ -1,0 +1,9 @@
+@echo off
+echo Starting Clubs Management System...
+echo.
+echo Installing dependencies if needed...
+call npm install
+echo.
+echo Starting server...
+call npm start
+pause
